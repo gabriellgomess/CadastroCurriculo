@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #171923;
+    margin-top: 60px;
+}
+
+textarea{
+    resize: none;
+}
+
+a.navbar-brand{
+    font-family: 'Krona One', sans-serif;
+    text-shadow: 2px 2px 3px black;
+}
+
+h4{
+    padding-top: 60px;
+}
+
+.navbar{
+    background-color: #c31331;
+}
+
+.form-check-label{
+    font-size: small;
+}
+
+#ckeck-box{
+    /* background-color: #171923; */
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h4{
+    font-family: 'Krona One', sans-serif;
+    color: #cbb2ab;
+}
+
+h5{
+    color: #cbb2ab;
+}
+
+label{
+    font-family: 'Krona One', sans-serif;
+    color: #f79e1b;
+}
+
+#link{
+    color: white;
+    font-size: small;
+}
+
+#rescpf{
+    font-family: 'Krona One', sans-serif;
+}
+
+
+
